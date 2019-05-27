@@ -8,7 +8,7 @@ Within the European research project [DREAM: Development of Robot-Enhanced thera
 
 This public release of the dataset does not include any fotage of children. Instead, processed features of the recorded data is provided. This data is produced using an integrated sensor system developed within DREAM. Please refer to [github.com/dream2020/sensors](https://github.com/dream2020/sensors) for more information.  
 
-The dataset itself is available at [github.com/dream2020/data](https://github.com/dream2020/data). Here, you find a WebGL visualisattion of the dataset, allowing playback of a recorded intervention session. 
+The dataset itself is available at [github.com/dream2020/data](https://github.com/dream2020/data). Here, you find a WebGL visualisattion of the dataset, allowing playback of a recorded intervention session. An example screenshoot is visible below. A live demo can be accessed at [dream.cognitionreversed.com](http://dream.cognitionreversed.com).
 
 ![Example screenshoot](public/images/0000189.png)
 
