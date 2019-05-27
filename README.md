@@ -12,7 +12,7 @@ The dataset itself is available at [github.com/dream2020/data](https://github.co
 
 ![Example screenshoot](public/images/0000189.png)
 
-## Requirements
+## Installation and Usage
 
 This visualiser is implemented using [Node.js](https://nodejs.org/en/) and [Three.js](https://threejs.org/). Assuming you have Git, Node and Npm installed, you may download and run the visualiser locally using the following steps:
 
@@ -25,10 +25,12 @@ npm start
 
 Finally, the visualizer is accessed in your webbrowser: http://localhost:3000/
 
-## Usage
-
 The current version of the visualiser plays a single therapy session available in the pre-release of the [DREAM dataset](https://github.com/dream2020/data). More sessions will be available when the full version of the dataset is releaqsed.
 
 ## Licence
 
 Unless otherwise specified, all software created as Copyright &copy; DREAM Data Visualiser is to be regarded as Open Source under the [GPLv3 licence](https://www.gnu.org/licenses/gpl.txt). The visualiser make use of a 3D model of the Nao robot that is non-free and may be accuired from [Turbosquid](https://www.turbosquid.com/3d-model/nao-robot).
+
+## Acknowledgment
+
+This work is part of the [DREAM project](http://www.dream2020.eu) funded by the European Commission’s Seventh Framework Program (FP7), grant #611391.
