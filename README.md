@@ -23,7 +23,7 @@ npm install
 npm start
 ~~~~
 
-Finally, the visualizer is accessed in your webbrowser: http://localhost:3000/
+Finally, the visualizer is accessed in your webbrowser: http://localhost:3041/
 
 The current version of the visualiser plays a single therapy session available in the pre-release of the [DREAM dataset](https://github.com/dream2020/data). More sessions will be available when the full version of the dataset is releaqsed.
 
