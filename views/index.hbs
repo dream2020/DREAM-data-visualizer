@@ -55,9 +55,11 @@
         orbit = new THREE.OrbitControls( camera, renderer.domElement );
         orbit.enableZoom = true;
 
-        camera.position.set(500,500,400);
+        orbit.position0.set(500,500,400);
         //camera.up = new THREE.Vector3(0,0,1);
-        camera.lookAt(new THREE.Vector3(0,100,750));
+        //camera.lookAt(new THREE.Vector3(0,100,750));
+        orbit.target0 = new THREE.Vector3(0,100,750);
+        orbit.reset();
 
         lights = [];
         lights[ 0 ] = new THREE.PointLight( 0xffffff, 1, 0 );
